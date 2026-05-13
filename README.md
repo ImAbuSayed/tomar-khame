@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tomar-khame/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tomar Khame](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-khame/) |
+| **Get License** | [Get License For Tomar Khame](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-khame/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> পোড়া এই মনে, জ্বলে তোমার ছায়া.. তোমার ছায়া..
+> অচেনা এক ঘোরে, বাড়ে আমার মায়া
+> ধুসর এই শহরে, তুমি সারাক্ষণ
+> অবুঝ এই মন, খোঁজে বাঁচার কারণ.. বাঁচার কারণ..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
