@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tomar-khame/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tomar Khame](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-khame/) |
+| **Get License** | [Official Music Licensing for Tomar Khame](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-khame/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f0a2d7d32a498b6c9aed64cc1f12978050baa0af2f6275fa40141517157d18ab` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

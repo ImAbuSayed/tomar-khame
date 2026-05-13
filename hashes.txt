@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tomar Khame
+
+This log tracks the cryptographic history and versioning for the song **Tomar Khame** (tomar-khame).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T08:13:15.749601 | `v1` | `f0a2d7d32a498b6c9aed64cc1f12978050baa0af2f6275fa40141517157d18ab` | `695faa31c61dff440d425c163aa12e16dc07f66dcd98f92314c6dff46d0a02d9` | `2026-05-13_tomar-khame-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
